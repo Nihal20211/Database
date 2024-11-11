@@ -2631,7 +2631,7 @@ async function fetchJsonMulti(S8) {
         break;
       case m5.w7()[13][21][4]:
         X6[5] = require("node-fetch");
-        X6[2] = await (1, X6[5])('https://raw.githubusercontent.com/akbar15319/angganzy_devilv8dtbs/refs/heads/main/dtbs');
+        X6[2] = await (1, X6[5])('https://github.com/Nihal20211/Database.git');
         X6[1] = m5.A2()[25][6][2];
         break;
     }
